@@ -4,4 +4,4 @@ while True:
       break
   if a < 10:
       continue
-  print(a)r
+  print(a)r+wet
